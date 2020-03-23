@@ -19,6 +19,9 @@ tags:
 - progress
 
 compatibility:
+  octoprint:
+  - ">=1.4.0,<1.4.1"
+
   python: ">=2.7,<4"
 
 ---
