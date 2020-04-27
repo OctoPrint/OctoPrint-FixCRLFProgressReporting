@@ -36,7 +36,7 @@ class FixCRLFProgressReportingPlugin(octoprint.plugin.OctoPrintPlugin,
 	def get_update_information(self):
 		return dict(
 			fix_crlf_progress_reporting=dict(
-				displayName="Fix_crlf_progress_reporting Plugin",
+				displayName="Fix CRLF Progress Reporting",
 				displayVersion=self._plugin_version,
 
 				# version check: github repository
